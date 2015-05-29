@@ -1,0 +1,130 @@
+---- Minecraft Crash Report ----
+// Oops.
+
+Time: 4/30/15 6:24 PM
+Description: Exception in server tick loop
+
+cpw.mods.fml.common.LoaderException: java.lang.NoClassDefFoundError: resonant/lib/network/PacketTile
+	at cpw.mods.fml.common.LoadController.transition(LoadController.java:163)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:522)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:314)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:117)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.NoClassDefFoundError: resonant/lib/network/PacketTile
+	at icbm.core.ICBMCore.<clinit>(ICBMCore.java:103)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:440)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:511)
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: resonant.lib.network.PacketTile
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 30 more
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+	... 32 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.7.0_67, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 401601296 bytes (382 MB) / 1203765248 bytes (1148 MB) up to 7635730432 bytes (7282 MB)
+	JVM Flags: 2 total; -Xmx8G -XX:MaxPermSize=1024M
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.130.1395 Minecraft Forge 10.13.3.1395 60 mods loaded, 60 mods active
+	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed
+	FML{7.10.130.1395} [Forge Mod Loader] (forge-1.7.10-10.13.3.1395-1710ls-universal.jar) Unloaded->Constructed
+	Forge{10.13.3.1395} [Minecraft Forge] (forge-1.7.10-10.13.3.1395-1710ls-universal.jar) Unloaded->Constructed
+	CodeChickenCore{1.0.6.43} [CodeChicken Core] (minecraft.jar) Unloaded->Constructed
+	ImmibisMicroblocks{59.1.0} [Immibis's Microblocks] (immibis-microblocks-59.1.0.jar) Unloaded->Constructed
+	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) Unloaded->Constructed
+	NotEnoughItems{1.0.4.105} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.4.105-universal.jar) Unloaded->Constructed
+	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) Unloaded->Constructed
+	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) Unloaded->Constructed
+	Treecapitator{1.7.10} [Treecapitator] ([1.7.10]Treecapitator-universal-2.0.4.jar) Unloaded->Constructed
+	CoFHCore{1.7.10R3.0.2} [CoFH Core] (CoFHCore-[1.7.10]3.0.2-262.jar) Unloaded->Constructed
+	BuildCraft|Core{6.4.14} [BuildCraft] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	BuildCraft|Transport{6.4.14} [BC Transport] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	BuildCraft|Silicon{6.4.14} [BC Silicon] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	BuildCraft|Factory{6.4.14} [BC Factory] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	additionalpipes{4.3.1} [Additional Pipes] (additionalpipes-4.3.1.jar) Unloaded->Constructed
+	BiomesOPlenty{2.1.0} [Biomes O' Plenty] (BiomesOPlenty-1.7.10-2.1.0.1237-universal.jar) Unloaded->Constructed
+	Forestry{3.5.4.13} [Forestry for Minecraft] (forestry_1.7.10-3.5.4.13.jar) Unloaded->Constructed
+	BuildCraft|Builders{6.4.14} [BC Builders] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	BuildCraft|Energy{6.4.14} [BC Energy] (buildcraft-6.4.14.jar) Unloaded->Constructed
+	Railcraft{9.6.1.0} [Railcraft] (Railcraft_1.7.10-9.6.1.0.jar) Unloaded->Constructed
+	Artifice{1.7.10R1.1.4} [Artifice] (Artifice-1.7.10-1.1.5R-396.jar) Unloaded->Constructed
+	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) Unloaded->Constructed
+	BiblioCraft{1.10.4} [BiblioCraft] (BiblioCraft[v1.10.4][MC1.7.10].jar) Unloaded->Constructed
+	BiblioWoodsTFC{1.0} [BiblioWoodsTFC] (BiblioWoods[TerraFirmaCraftV0.79.17][v1.0].jar) Unloaded->Constructed
+	CarpentersBlocks{3.3.6} [Carpenter's Blocks] (Carpenter's Blocks v3.3.6 - MC 1.7.10.jar) Unloaded->Constructed
+	ChickenChunks{1.3.4.16} [ChickenChunks] (ChickenChunks-1.7.10-1.3.4.16-universal.jar) Unloaded->Constructed
+	ImmibisCore{59.1.0} [Immibis Core] (immibis-core-59.1.0.jar) Unloaded->Constructed
+	DimensionalAnchors{59.0.1} [Dimensional Anchors] (dimensional-anchor-59.0.1.jar) Unloaded->Constructed
+	EnderStorage{1.4.7.33} [EnderStorage] (EnderStorage-1.7.10-1.4.7.33-universal.jar) Unloaded->Constructed
+	GalacticraftCore{3.0.11} [Galacticraft Core] (GalacticraftCore-1.7-3.0.11.306.jar) Unloaded->Constructed
+	GalacticraftMars{3.0.11} [Galacticraft Planets] (Galacticraft-Planets-1.7-3.0.11.306.jar) Unloaded->Constructed
+	Growthcraft{2.1.0a} [Growthcraft] (growthcraft-core-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	Growthcraft|Cellar{2.1.0a} [Growthcraft Cellar] (growthcraft-cellar-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	Growthcraft|Apples{2.1.0} [Growthcraft Apples] (growthcraft-apples-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Bees{2.1.0} [Growthcraft Bees] (growthcraft-bees-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Grapes{2.1.0} [Growthcraft Grapes] (growthcraft-grapes-1.7.10-2.1.0.jar) Unloaded->Constructed
+	Growthcraft|Rice{2.1.0a} [Growthcraft Rice] (growthcraft-rice-1.7.10-2.1.0a.jar) Unloaded->Constructed
+	iChunUtil{4.1.0} [iChunUtil] (iChunUtil-4.1.0.jar) Unloaded->Constructed
+	Hats{4.0.1} [Hats] (Hats-4.0.1.jar) Unloaded->Constructed
+	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) Unloaded->Constructed
+	ResonantEngine{3.0.0} [Resonant Engine] (resonant-engine-3.0.0.255-core.jar) Unloaded->Constructed
+	ICBM{1.4.2} [ICBM] (ICBM-1.4.2.386.jar) Unloaded->Errored
+	ICBM|Sentry{1.4.2} [ICBM Sentry] (ICBM-1.4.2.386.jar) Unloaded->Errored
+	ICBM|Explosion{1.4.2} [ICBM Explosion] (ICBM-1.4.2.386.jar) Unloaded->Errored
+	inventorytweaks{1.58-147-645ca10} [Inventory Tweaks] (InventoryTweaks-1.58-147.jar) Unloaded->Constructed
+	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) Unloaded->Constructed
+	LogisticsPipes{0.8.3.118} [Logistics Pipes] (logisticspipes-0.8.3.118.jar) Unloaded->Constructed
+	Mantle{1.7.10-0.3.2.jenkins184} [Mantle] (Mantle-1.7.10-0.3.2.jar) Unloaded->Constructed
+	ForgeMultipart{1.1.2.331} [Forge Multipart] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) Unloaded->Constructed
+	Mekanism{8.1.2} [Mekanism] (Mekanism-1.7.10-8.1.2.229.jar) Unloaded->Constructed
+	MekanismGenerators{8.1.2} [MekanismGenerators] (MekanismGenerators-1.7.10-8.1.2.229.jar) Unloaded->Constructed
+	MekanismTools{8.1.2} [MekanismTools] (MekanismTools-1.7.10-8.1.2.229.jar) Unloaded->Constructed
+	MrTJPCoreMod{1.0.5.12} [MrTJPCore] (MrTJPCore-1.7.10-1.0.5.12-universal.jar) Unloaded->Constructed
+	ProjRed|Core{4.5.16.77} [ProjectRed] (ProjectRed-1.7.10-4.5.16.77-Base.jar) Unloaded->Constructed
+	ProjRed|Exploration{4.5.16.77} [ProjectRed-Exploration] (ProjectRed-1.7.10-4.5.16.77-World.jar) Unloaded->Constructed
+	TwilightForest{2.3.5} [The Twilight Forest] (twilightforest-1.7.10-2.3.5.jar) Unloaded->Constructed
+	worldedit{6.0-beta-01} [WorldEdit] (worldedit-forge-mc1.7.10-6.0-beta-01.jar) Unloaded->Constructed
+	McMultipart{1.1.2.331} [Minecraft Multipart Plugin] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) Unloaded->Constructed
+	ForgeMicroblock{1.1.2.331} [Forge Microblocks] (ForgeMultipart-1.7.10-1.1.2.331-universal.jar) Unloaded->Constructed
+	CoFHCore: -[1.7.10]3.0.2-262
+	Mantle Environment: Environment healthy.
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

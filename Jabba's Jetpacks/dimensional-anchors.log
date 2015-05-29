@@ -1,0 +1,908 @@
+[2015-04-30 18:28:23] Log opened
+[2015-04-30 18:28:37] Loaded world info for the overworld
+[2015-04-30 18:29:37] Unloaded world info for the overworld
+[2015-04-30 18:30:27] Log opened
+[2015-04-30 18:30:32] Loaded world info for the overworld
+[2015-04-30 23:50:43] Unloaded world info for the overworld
+[2015-05-01 00:07:02] Log opened
+[2015-05-01 00:07:08] Loaded world info for the overworld
+[2015-05-01 00:17:38] Unloaded world info for the overworld
+[2015-05-01 00:21:00] Log opened
+[2015-05-01 00:21:06] Loaded world info for the overworld
+[2015-05-01 00:46:34] Unloaded world info for the overworld
+[2015-05-01 00:49:19] Log opened
+[2015-05-01 00:49:26] Loaded world info for the overworld
+[2015-05-01 00:51:22] Unloaded world info for the overworld
+[2015-05-01 00:52:20] Log opened
+[2015-05-01 00:52:26] Loaded world info for the overworld
+[2015-05-01 16:29:06] Unloaded world info for the overworld
+[2015-05-01 16:34:35] Log opened
+[2015-05-01 16:34:50] Loaded world info for the overworld
+[2015-05-01 19:45:48] Log opened
+[2015-05-01 19:46:03] Loaded world info for the overworld
+[2015-05-01 21:56:09] Loaded world info for world DIM-1
+[2015-05-02 13:25:11] Unloaded world info for the overworld
+[2015-05-02 13:25:11] Unloaded world info for world DIM-1
+[2015-05-02 13:28:49] Log opened
+[2015-05-02 13:28:57] Loaded world info for the overworld
+[2015-05-02 13:31:12] Unloaded world info for the overworld
+[2015-05-02 13:35:19] Log opened
+[2015-05-02 13:35:26] Loaded world info for the overworld
+[2015-05-02 13:45:13] Unloaded world info for the overworld
+[2015-05-02 13:46:43] Log opened
+[2015-05-02 13:46:51] Loaded world info for the overworld
+[2015-05-02 14:36:45] Unloaded world info for the overworld
+[2015-05-02 14:37:39] Log opened
+[2015-05-02 14:37:47] Loaded world info for the overworld
+[2015-05-03 01:01:14] Unloaded world info for the overworld
+[2015-05-03 01:03:03] Log opened
+[2015-05-03 01:03:10] Loaded world info for the overworld
+[2015-05-03 12:59:21] Log opened
+[2015-05-03 12:59:28] Loaded world info for the overworld
+[2015-05-03 16:06:11] Unloaded world info for the overworld
+[2015-05-03 16:08:27] Log opened
+[2015-05-03 16:08:36] Loaded world info for the overworld
+[2015-05-03 16:48:51] Log opened
+[2015-05-03 16:48:59] Loaded world info for the overworld
+[2015-05-03 18:53:48] Unloaded world info for the overworld
+[2015-05-22 16:51:08] Log opened
+[2015-05-22 16:51:17] Loaded world info for the overworld
+[2015-05-22 16:54:13] Loader added at [-399,61,740] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:54:13] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:54:13] Loader added at [-399,61,740] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:54:13] Loader validated at [-399,61,740] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:54:13] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:54:13] Loader added at [-399,61,740] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:54:22] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:54:22] Loader added at [-399,61,740] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:09] Loader added at [225,90,1273] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:55:09] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:55:09] Loader added at [225,90,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:09] Loader validated at [225,90,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:09] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:09] Loader added at [225,90,1273] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:55:12] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:55:12] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:42] Loader added at [-408,165,742] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:55:42] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-22 16:55:42] Loader added at [-408,165,742] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:42] Loader validated at [-408,165,742] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:42] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-22 16:55:42] Loader added at [-408,165,742] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:55:45] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-22 16:55:45] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:48] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:48] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:49] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:49] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:50] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 16:55:50] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 22:24:39] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 22:24:39] Loader added at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-22 22:24:43] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-22 22:24:43] Loader added at [-399,61,740] in the overworld, owner=<server>, #chunks=25
+[2015-05-22 22:24:47] Loader removed (chunks will stay loaded for one second) at [-399,61,740] in the overworld, owner=<server>, #chunks=25
+[2015-05-22 22:24:47] Loader added at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-22 23:34:22] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-22 23:34:22] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-22 23:34:32] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-22 23:34:32] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 10:29:57] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 10:29:57] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 10:29:57] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 10:29:57] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:39:46] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:39:46] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:39:46] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:39:46] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 12:39:47] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 12:39:47] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:55:50] Loader added at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 12:55:50] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 12:55:50] Loader added at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader validated at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader invalidated/removed at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader added at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 12:55:50] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 12:55:50] Loader added at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader validated at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 12:55:50] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-23 12:55:52] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-23 12:55:52] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-23 12:55:56] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-23 12:55:56] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 12:55:57] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 12:55:57] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:55:59] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:55:59] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=81
+[2015-05-23 12:55:59] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=81
+[2015-05-23 12:55:59] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=121
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=121
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=169
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=169
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=225
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=225
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=289
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=289
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=361
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=361
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=441
+[2015-05-23 12:56:00] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=441
+[2015-05-23 12:56:00] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=529
+[2015-05-23 12:56:01] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=529
+[2015-05-23 12:56:01] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=625
+[2015-05-23 12:56:01] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=625
+[2015-05-23 12:56:01] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=729
+[2015-05-23 12:56:01] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=729
+[2015-05-23 12:56:01] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=841
+[2015-05-23 12:56:02] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=841
+[2015-05-23 12:56:02] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=961
+[2015-05-23 12:56:02] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=961
+[2015-05-23 12:56:02] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=1089
+[2015-05-23 12:56:03] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=1089
+[2015-05-23 12:56:03] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=961
+[2015-05-23 12:56:03] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=961
+[2015-05-23 12:56:03] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=841
+[2015-05-23 12:56:03] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=841
+[2015-05-23 12:56:03] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=729
+[2015-05-23 12:56:03] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=729
+[2015-05-23 12:56:03] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=625
+[2015-05-23 12:56:03] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=625
+[2015-05-23 12:56:03] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=529
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=529
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=441
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=441
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=361
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=361
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=289
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=289
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=225
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=225
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=169
+[2015-05-23 12:56:04] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=169
+[2015-05-23 12:56:04] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=121
+[2015-05-23 12:56:05] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=121
+[2015-05-23 12:56:05] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=81
+[2015-05-23 12:56:05] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=81
+[2015-05-23 12:56:05] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:56:05] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:56:05] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 12:56:06] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 12:56:06] Loader added at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:56:45] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 12:56:45] Loader added at [-412,127,553] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 12:58:52] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:58:52] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:58:52] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:58:52] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 12:59:00] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 12:59:00] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:59:09] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 12:59:09] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:59:10] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:59:10] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 12:59:23] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 12:59:23] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:59:30] Loader removed (chunks will stay loaded for one second) at [-408,165,742] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 12:59:30] Loader added at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 13:00:59] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 13:00:59] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 13:01:11] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 13:01:11] Loader added at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 15:39:30] Loader added at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:30] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:30] Loader added at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader validated at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader invalidated/removed at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader added at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:30] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:30] Loader added at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader validated at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:30] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:34] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:34] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:35] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:35] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:35] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:35] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:36] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:39:36] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:39:37] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:39:37] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 15:39:38] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 15:39:38] Loader added at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:39:39] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:39:39] Loader added at [-421,165,736] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 15:39:58] Loader added at [-411,177,743] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:58] Loader removed (chunks will stay loaded for one second) at [-411,177,743] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:39:58] Loader added at [-411,177,743] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:58] Loader validated at [-411,177,743] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:58] Loader removed (chunks will stay loaded for one second) at [-411,177,743] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:39:58] Loader added at [-411,177,743] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:03] Loader removed (chunks will stay loaded for one second) at [-411,177,743] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:03] Loader added at [-411,177,743] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:05] Loader removed (chunks will stay loaded for one second) at [-411,177,743] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:05] Loader added at [-411,177,743] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 15:40:22] Loader added at [-431,165,757] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:40:22] Loader removed (chunks will stay loaded for one second) at [-431,165,757] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:40:22] Loader added at [-431,165,757] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:22] Loader validated at [-431,165,757] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:22] Loader removed (chunks will stay loaded for one second) at [-431,165,757] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:22] Loader added at [-431,165,757] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:24] Loader removed (chunks will stay loaded for one second) at [-431,165,757] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:24] Loader added at [-431,165,757] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:26] Loader removed (chunks will stay loaded for one second) at [-431,165,757] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:26] Loader added at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 15:40:45] Loader added at [-427,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:40:45] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:40:45] Loader added at [-427,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:45] Loader validated at [-427,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:45] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:40:45] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:47] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:40:47] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:48] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:48] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:49] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:49] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:49] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:49] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:49] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:49] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:50] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:50] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:50] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=3
+[2015-05-23 15:40:50] Loader added at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:52] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:40:52] Loader added at [-427,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 15:41:07] Loader added at [-411,165,754] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:41:07] Loader removed (chunks will stay loaded for one second) at [-411,165,754] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:41:07] Loader added at [-411,165,754] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:41:07] Loader validated at [-411,165,754] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:41:07] Loader removed (chunks will stay loaded for one second) at [-411,165,754] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:41:07] Loader added at [-411,165,754] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:41:09] Loader removed (chunks will stay loaded for one second) at [-411,165,754] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:41:09] Loader added at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 15:42:32] Loader added at [219,89,1274] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:42:32] Loader removed (chunks will stay loaded for one second) at [219,89,1274] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 15:42:32] Loader added at [219,89,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:42:32] Loader validated at [219,89,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:42:32] Loader removed (chunks will stay loaded for one second) at [219,89,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 15:42:32] Loader added at [219,89,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:42:35] Loader removed (chunks will stay loaded for one second) at [219,89,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 15:42:35] Loader added at [219,89,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:42:36] Loader removed (chunks will stay loaded for one second) at [219,89,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 15:42:36] Loader added at [219,89,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:03:32] Loader removed (chunks will stay loaded for one second) at [-412,127,553] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 16:03:32] Loader invalidated/removed at [-412,127,553] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 16:03:32] Loader removed by SketchBox at [-412,127,553] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 16:03:35] Loader added at [-412,127,555] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:03:35] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:03:35] Loader added at [-412,127,555] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:03:35] Loader validated at [-412,127,555] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:03:35] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:03:35] Loader added at [-412,127,555] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-23 16:03:37] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-23 16:03:37] Loader added at [-412,127,555] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-23 16:03:37] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-23 16:03:37] Loader added at [-412,127,555] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 16:03:38] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-23 16:03:38] Loader added at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 16:04:01] Loader added at [197,86,1291] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:04:01] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:04:01] Loader added at [197,86,1291] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:04:01] Loader validated at [197,86,1291] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:04:01] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:04:01] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:04:05] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:04:05] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 16:04:06] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 16:04:06] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 16:04:07] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 16:04:07] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 16:04:09] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 16:04:09] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=81
+[2015-05-23 16:04:10] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=81
+[2015-05-23 16:04:10] Loader added at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 16:04:11] Loader removed (chunks will stay loaded for one second) at [197,86,1291] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 16:04:11] Loader added at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 16:27:49] Loader removed (chunks will stay loaded for one second) at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:27:49] Loader invalidated/removed at [225,90,1273] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:27:49] Loader removed (chunks will stay loaded for one second) at [219,89,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:27:49] Loader invalidated/removed at [219,89,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:30:18] Loader added at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:30:18] Loader removed (chunks will stay loaded for one second) at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:30:18] Loader added at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:30:18] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:30:18] Loader removed (chunks will stay loaded for one second) at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:30:18] Loader invalidated/removed at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:30:18] Loader added at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:30:18] Loader removed (chunks will stay loaded for one second) at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:30:18] Loader added at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-23 16:30:18] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-23 16:31:28] Unloaded world info for the overworld
+[2015-05-23 16:32:05] Log opened
+[2015-05-23 16:32:11] Loaded world info for the overworld
+[2015-05-23 16:32:11] Loader validated at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:12] Loader validated at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:32:12] Loader validated at [-411,177,743] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:12] Loader validated at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:12] Loader validated at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:12] Loader validated at [-427,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:12] Loader validated at [-421,165,736] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:32:16] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-23 16:32:16] Loader validated at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 16:32:16] Loader validated at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 16:42:27] Loader added at [209,85,1299] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:27] Loader removed (chunks will stay loaded for one second) at [209,85,1299] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:27] Loader added at [209,85,1299] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:27] Loader validated at [209,85,1299] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:27] Loader removed (chunks will stay loaded for one second) at [209,85,1299] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:27] Loader added at [209,85,1299] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:29] Loader removed (chunks will stay loaded for one second) at [209,85,1299] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:29] Loader added at [209,85,1299] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:42:37] Loader removed (chunks will stay loaded for one second) at [209,85,1299] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:42:37] Loader invalidated/removed at [209,85,1299] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:42:37] Loader removed by Gr8Gildersleeve at [209,85,1299] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:42:38] Loader added at [205,85,1295] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:38] Loader removed (chunks will stay loaded for one second) at [205,85,1295] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:38] Loader added at [205,85,1295] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:38] Loader validated at [205,85,1295] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:38] Loader removed (chunks will stay loaded for one second) at [205,85,1295] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:38] Loader added at [205,85,1295] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:43] Loader removed (chunks will stay loaded for one second) at [205,85,1295] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:43] Loader invalidated/removed at [205,85,1295] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:43] Loader removed by Gr8Gildersleeve at [205,85,1295] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:44] Loader added at [204,84,1294] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:44] Loader removed (chunks will stay loaded for one second) at [204,84,1294] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:42:44] Loader added at [204,84,1294] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:44] Loader validated at [204,84,1294] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:44] Loader removed (chunks will stay loaded for one second) at [204,84,1294] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:42:44] Loader added at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:45] Loader removed (chunks will stay loaded for one second) at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:42:45] Loader added at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 16:42:45] Loader removed (chunks will stay loaded for one second) at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 16:42:45] Loader added at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 16:42:47] Loader removed (chunks will stay loaded for one second) at [204,84,1294] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 16:42:47] Loader added at [204,84,1294] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 16:51:05] Loader removed (chunks will stay loaded for one second) at [-411,177,743] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:51:05] Loader invalidated/removed at [-411,177,743] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:51:05] Loader removed by Gr8Gildersleeve at [-411,177,743] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:51:16] Loader added at [-401,165,764] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:51:16] Loader removed (chunks will stay loaded for one second) at [-401,165,764] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:51:16] Loader added at [-401,165,764] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:51:16] Loader validated at [-401,165,764] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:51:16] Loader removed (chunks will stay loaded for one second) at [-401,165,764] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:51:16] Loader added at [-401,165,764] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:52:56] Loader removed (chunks will stay loaded for one second) at [-421,165,736] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:52:56] Loader invalidated/removed at [-421,165,736] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:52:56] Loader removed by SketchBox at [-421,165,736] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:52:57] Loader removed (chunks will stay loaded for one second) at [-427,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:52:57] Loader invalidated/removed at [-427,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:52:57] Loader removed by SketchBox at [-427,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 16:55:49] Loader added at [191,86,1269] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:49] Loader removed (chunks will stay loaded for one second) at [191,86,1269] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:49] Loader added at [191,86,1269] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:49] Loader validated at [191,86,1269] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:49] Loader removed (chunks will stay loaded for one second) at [191,86,1269] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:49] Loader added at [191,86,1269] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:55:50] Loader added at [191,86,1274] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:50] Loader removed (chunks will stay loaded for one second) at [191,86,1274] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:50] Loader added at [191,86,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:50] Loader validated at [191,86,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:50] Loader removed (chunks will stay loaded for one second) at [191,86,1274] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:50] Loader added at [191,86,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:55:52] Loader added at [191,86,1280] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:52] Loader removed (chunks will stay loaded for one second) at [191,86,1280] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:52] Loader added at [191,86,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:52] Loader validated at [191,86,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:52] Loader removed (chunks will stay loaded for one second) at [191,86,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:52] Loader added at [191,86,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:55:54] Loader added at [191,86,1285] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:54] Loader removed (chunks will stay loaded for one second) at [191,86,1285] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:54] Loader added at [191,86,1285] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:54] Loader validated at [191,86,1285] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:54] Loader removed (chunks will stay loaded for one second) at [191,86,1285] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:54] Loader added at [191,86,1285] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:55:57] Loader added at [191,86,1292] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:57] Loader removed (chunks will stay loaded for one second) at [191,86,1292] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:57] Loader added at [191,86,1292] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:57] Loader validated at [191,86,1292] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:57] Loader removed (chunks will stay loaded for one second) at [191,86,1292] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:57] Loader added at [191,86,1292] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:55:59] Loader added at [191,86,1296] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:59] Loader removed (chunks will stay loaded for one second) at [191,86,1296] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:55:59] Loader added at [191,86,1296] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:59] Loader validated at [191,86,1296] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:59] Loader removed (chunks will stay loaded for one second) at [191,86,1296] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:55:59] Loader added at [191,86,1296] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:01] Loader removed (chunks will stay loaded for one second) at [191,86,1296] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:01] Loader added at [191,86,1296] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:04] Loader removed (chunks will stay loaded for one second) at [191,86,1292] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:04] Loader added at [191,86,1292] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:07] Loader removed (chunks will stay loaded for one second) at [191,86,1285] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:07] Loader added at [191,86,1285] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:11] Loader removed (chunks will stay loaded for one second) at [191,86,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:11] Loader added at [191,86,1280] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:15] Loader removed (chunks will stay loaded for one second) at [191,86,1274] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:15] Loader added at [191,86,1274] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:19] Loader removed (chunks will stay loaded for one second) at [191,86,1269] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:19] Loader added at [191,86,1269] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:37] Loader added at [218,86,1270] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:37] Loader removed (chunks will stay loaded for one second) at [218,86,1270] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:37] Loader added at [218,86,1270] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:37] Loader validated at [218,86,1270] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:37] Loader removed (chunks will stay loaded for one second) at [218,86,1270] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:37] Loader added at [218,86,1270] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:38] Loader removed (chunks will stay loaded for one second) at [218,86,1270] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:38] Loader added at [218,86,1270] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:43] Loader added at [218,86,1276] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:43] Loader removed (chunks will stay loaded for one second) at [218,86,1276] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:43] Loader added at [218,86,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:43] Loader validated at [218,86,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:43] Loader removed (chunks will stay loaded for one second) at [218,86,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:43] Loader added at [218,86,1276] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:44] Loader removed (chunks will stay loaded for one second) at [218,86,1276] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:44] Loader added at [218,86,1276] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:50] Loader added at [220,86,1282] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:50] Loader removed (chunks will stay loaded for one second) at [220,86,1282] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:50] Loader added at [220,86,1282] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:50] Loader validated at [220,86,1282] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:50] Loader removed (chunks will stay loaded for one second) at [220,86,1282] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:50] Loader added at [220,86,1282] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:51] Loader removed (chunks will stay loaded for one second) at [220,86,1282] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:51] Loader added at [220,86,1282] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:56:55] Loader added at [220,86,1289] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:55] Loader removed (chunks will stay loaded for one second) at [220,86,1289] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:56:55] Loader added at [220,86,1289] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:55] Loader validated at [220,86,1289] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:55] Loader removed (chunks will stay loaded for one second) at [220,86,1289] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:56:55] Loader added at [220,86,1289] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:56] Loader removed (chunks will stay loaded for one second) at [220,86,1289] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 16:56:56] Loader added at [220,86,1289] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader invalidated/removed at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader invalidated/removed at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader invalidated/removed at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader added at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader removed (chunks will stay loaded for one second) at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 16:57:47] Loader added at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 16:57:47] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:00:37] Unloaded world info for the overworld
+[2015-05-23 17:01:14] Log opened
+[2015-05-23 17:01:20] Loaded world info for the overworld
+[2015-05-23 17:01:20] Loader validated at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:01:21] Loader validated at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:01:21] Loader validated at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:21] Loader validated at [-401,165,764] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:01:21] Loader validated at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:01:24] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [220,86,1289] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [220,86,1282] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [218,86,1270] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [218,86,1276] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-23 17:01:24] Loader validated at [191,86,1269] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [191,86,1274] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [204,84,1294] in the overworld, owner=<server>, #chunks=25
+[2015-05-23 17:01:24] Loader validated at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 17:01:24] Loader validated at [191,86,1285] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [191,86,1280] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [191,86,1292] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:01:24] Loader validated at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-23 17:01:24] Loader validated at [191,86,1296] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:09] Loader removed (chunks will stay loaded for one second) at [191,86,1292] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:09] Loader added at [191,86,1292] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:13] Loader removed (chunks will stay loaded for one second) at [191,86,1285] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:13] Loader added at [191,86,1285] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:18] Loader removed (chunks will stay loaded for one second) at [191,86,1280] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:18] Loader added at [191,86,1280] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:24] Loader removed (chunks will stay loaded for one second) at [191,86,1274] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:24] Loader added at [191,86,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:29] Loader removed (chunks will stay loaded for one second) at [191,86,1269] in the overworld, owner=<server>, #chunks=1
+[2015-05-23 17:08:29] Loader added at [191,86,1269] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:34] Loader added at [185,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:08:34] Loader removed (chunks will stay loaded for one second) at [185,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:08:34] Loader added at [185,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:34] Loader validated at [185,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:34] Loader removed (chunks will stay loaded for one second) at [185,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:34] Loader added at [185,86,1264] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:08:36] Loader removed (chunks will stay loaded for one second) at [185,86,1264] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:08:36] Loader added at [185,86,1264] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:08:41] Loader removed (chunks will stay loaded for one second) at [185,86,1264] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:08:41] Loader added at [185,86,1264] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:08:48] Loader added at [219,87,1263] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:08:48] Loader removed (chunks will stay loaded for one second) at [219,87,1263] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:08:48] Loader added at [219,87,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:48] Loader validated at [219,87,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:48] Loader removed (chunks will stay loaded for one second) at [219,87,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:08:48] Loader added at [219,87,1263] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:08:50] Loader removed (chunks will stay loaded for one second) at [219,87,1263] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:08:50] Loader added at [219,87,1263] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:08:51] Loader removed (chunks will stay loaded for one second) at [219,87,1263] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:08:51] Loader added at [219,87,1263] in the overworld, owner=<server>, #chunks=9
+[2015-05-23 17:09:07] Loader added at [176,81,1253] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:09:07] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:09:07] Loader added at [176,81,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:09:07] Loader validated at [176,81,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:09:07] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:09:07] Loader added at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:09:10] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:09:10] Loader added at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:09:10] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:09:10] Loader added at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 17:09:10] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 17:09:10] Loader added at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 17:09:12] Loader removed (chunks will stay loaded for one second) at [176,81,1253] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 17:09:12] Loader added at [176,81,1253] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 17:10:10] Loader added at [202,81,1280] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:10:10] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:10:10] Loader added at [202,81,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:10:10] Loader validated at [202,81,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:10:10] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:10:10] Loader added at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:10:11] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:10:11] Loader added at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:10:12] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:10:12] Loader added at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 17:10:12] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=25
+[2015-05-23 17:10:12] Loader added at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 17:10:14] Loader removed (chunks will stay loaded for one second) at [202,81,1280] in the overworld, owner=Gr8Gildersleeve, #chunks=49
+[2015-05-23 17:10:14] Loader added at [202,81,1280] in the overworld, owner=<server>, #chunks=49
+[2015-05-23 17:29:26] Loader added at [-434,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:29:26] Loader removed (chunks will stay loaded for one second) at [-434,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-23 17:29:26] Loader added at [-434,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:29:26] Loader validated at [-434,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:29:26] Loader removed (chunks will stay loaded for one second) at [-434,165,731] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-23 17:29:26] Loader added at [-434,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:29:28] Loader removed (chunks will stay loaded for one second) at [-434,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-23 17:29:28] Loader added at [-434,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:29:28] Loader removed (chunks will stay loaded for one second) at [-434,165,731] in the overworld, owner=Gr8Gildersleeve, #chunks=9
+[2015-05-23 17:29:28] Loader added at [-434,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 08:07:21] Loader added at [260,86,1243] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:21] Loader removed (chunks will stay loaded for one second) at [260,86,1243] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:21] Loader added at [260,86,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:21] Loader validated at [260,86,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:21] Loader removed (chunks will stay loaded for one second) at [260,86,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:21] Loader added at [260,86,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:24] Loader added at [260,86,1254] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:24] Loader removed (chunks will stay loaded for one second) at [260,86,1254] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:24] Loader added at [260,86,1254] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:24] Loader validated at [260,86,1254] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:24] Loader removed (chunks will stay loaded for one second) at [260,86,1254] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:24] Loader added at [260,86,1254] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:27] Loader added at [260,86,1263] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:27] Loader removed (chunks will stay loaded for one second) at [260,86,1263] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:27] Loader added at [260,86,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:27] Loader validated at [260,86,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:27] Loader removed (chunks will stay loaded for one second) at [260,86,1263] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:27] Loader added at [260,86,1263] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:32] Loader added at [260,86,1273] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:32] Loader removed (chunks will stay loaded for one second) at [260,86,1273] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:32] Loader added at [260,86,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:32] Loader validated at [260,86,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:32] Loader removed (chunks will stay loaded for one second) at [260,86,1273] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:32] Loader added at [260,86,1273] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:36] Loader added at [260,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:36] Loader removed (chunks will stay loaded for one second) at [260,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:36] Loader added at [260,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:36] Loader validated at [260,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:36] Loader removed (chunks will stay loaded for one second) at [260,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:36] Loader added at [260,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:44] Loader added at [248,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:44] Loader removed (chunks will stay loaded for one second) at [248,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:44] Loader added at [248,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:44] Loader validated at [248,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:44] Loader removed (chunks will stay loaded for one second) at [248,86,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:44] Loader added at [248,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:07:51] Loader added at [235,85,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:51] Loader removed (chunks will stay loaded for one second) at [235,85,1287] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:07:51] Loader added at [235,85,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:51] Loader validated at [235,85,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:51] Loader removed (chunks will stay loaded for one second) at [235,85,1287] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:07:51] Loader added at [235,85,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:00] Loader added at [236,86,1275] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:00] Loader removed (chunks will stay loaded for one second) at [236,86,1275] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:00] Loader added at [236,86,1275] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:00] Loader validated at [236,86,1275] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:00] Loader removed (chunks will stay loaded for one second) at [236,86,1275] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:00] Loader added at [236,86,1275] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:01] Loader removed (chunks will stay loaded for one second) at [236,86,1275] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:01] Loader invalidated/removed at [236,86,1275] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:01] Loader removed by SketchBox at [236,86,1275] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:02] Loader added at [236,85,1276] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:02] Loader removed (chunks will stay loaded for one second) at [236,85,1276] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:02] Loader added at [236,85,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:02] Loader validated at [236,85,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:02] Loader removed (chunks will stay loaded for one second) at [236,85,1276] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:02] Loader added at [236,85,1276] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:05] Loader added at [235,85,1265] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:05] Loader removed (chunks will stay loaded for one second) at [235,85,1265] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:05] Loader added at [235,85,1265] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:05] Loader validated at [235,85,1265] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:05] Loader removed (chunks will stay loaded for one second) at [235,85,1265] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:05] Loader added at [235,85,1265] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:07] Loader added at [236,85,1253] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:07] Loader removed (chunks will stay loaded for one second) at [236,85,1253] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:07] Loader added at [236,85,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:07] Loader validated at [236,85,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:07] Loader removed (chunks will stay loaded for one second) at [236,85,1253] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:07] Loader added at [236,85,1253] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:09] Loader added at [236,85,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:09] Loader removed (chunks will stay loaded for one second) at [236,85,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:09] Loader added at [236,85,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:09] Loader validated at [236,85,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:09] Loader removed (chunks will stay loaded for one second) at [236,85,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:09] Loader added at [236,85,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:08:13] Loader added at [247,85,1243] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:13] Loader removed (chunks will stay loaded for one second) at [247,85,1243] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:08:13] Loader added at [247,85,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:13] Loader validated at [247,85,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:13] Loader removed (chunks will stay loaded for one second) at [247,85,1243] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:08:13] Loader added at [247,85,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:28] Loader added at [249,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:20:28] Loader removed (chunks will stay loaded for one second) at [249,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:20:28] Loader added at [249,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:28] Loader validated at [249,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:28] Loader removed (chunks will stay loaded for one second) at [249,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:28] Loader added at [249,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:29] Loader added at [248,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:20:29] Loader removed (chunks will stay loaded for one second) at [248,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 08:20:29] Loader added at [248,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:29] Loader validated at [248,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:29] Loader removed (chunks will stay loaded for one second) at [248,86,1244] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 08:20:29] Loader added at [248,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:36] Loader removed (chunks will stay loaded for one second) at [249,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:36] Loader invalidated/removed at [249,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:36] Loader removed by SketchBox at [249,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:42] Loader removed (chunks will stay loaded for one second) at [248,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:42] Loader invalidated/removed at [248,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 08:20:42] Loader removed by SketchBox at [248,86,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 09:47:05] Loader removed (chunks will stay loaded for one second) at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:47:05] Loader invalidated/removed at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:47:05] Loader removed by SketchBox at [-412,127,555] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:52:21] Loader added at [-519,93,293] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 09:52:21] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 09:52:21] Loader added at [-519,93,293] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:52:21] Loader validated at [-519,93,293] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:52:21] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:52:21] Loader added at [-519,93,293] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 09:52:25] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 09:52:25] Loader added at [-519,93,293] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:52:25] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:52:25] Loader added at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:52:25] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:52:25] Loader added at [-519,93,293] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:52:27] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:52:27] Loader added at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:54:40] Loader removed (chunks will stay loaded for one second) at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:54:40] Loader invalidated/removed at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:54:40] Loader removed by SketchBox at [-519,93,293] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:55:59] Loader added at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 09:55:59] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 09:55:59] Loader added at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:55:59] Loader validated at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:55:59] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 09:55:59] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 09:56:01] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 09:56:01] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:56:01] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:56:01] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:56:02] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:56:02] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:56:03] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=49
+[2015-05-24 09:56:03] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:56:09] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 09:56:09] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:56:13] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 09:56:13] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 11:11:25] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 11:11:25] Loader invalidated/removed at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 12:49:52] Log opened
+[2015-05-24 12:49:58] Loaded world info for the overworld
+[2015-05-24 12:49:58] Loader validated at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:49:59] Loader validated at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:49:59] Loader validated at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 12:49:59] Loader validated at [-401,165,764] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-24 12:49:59] Loader validated at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:00] Loader validated at [-434,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:01] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 12:50:01] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 12:50:01] Loader validated at [236,85,1276] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:01] Loader validated at [235,85,1265] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:01] Loader validated at [236,85,1253] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [248,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [235,85,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [260,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [260,86,1273] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [260,86,1263] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [260,86,1254] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [260,86,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [247,85,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [236,85,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [218,86,1270] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [218,86,1276] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-24 12:50:02] Loader validated at [220,86,1289] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [220,86,1282] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 12:50:02] Loader validated at [185,86,1264] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1269] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1285] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1280] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1292] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [176,81,1253] in the overworld, owner=<server>, #chunks=49
+[2015-05-24 12:50:02] Loader validated at [204,84,1294] in the overworld, owner=<server>, #chunks=25
+[2015-05-24 12:50:02] Loader validated at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-24 12:50:02] Loader validated at [202,81,1280] in the overworld, owner=<server>, #chunks=49
+[2015-05-24 12:50:02] Loader validated at [219,87,1263] in the overworld, owner=<server>, #chunks=9
+[2015-05-24 12:50:02] Loader validated at [191,86,1296] in the overworld, owner=<server>, #chunks=1
+[2015-05-24 14:46:03] Loader added at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 14:46:03] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 14:46:03] Loader added at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 14:46:03] Loader validated at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 14:46:03] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 14:46:03] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 14:47:25] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 14:47:25] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 14:47:25] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 14:47:25] Loader added at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 15:05:01] Loader removed (chunks will stay loaded for one second) at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 15:05:01] Loader invalidated/removed at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 15:05:01] Loader removed by SketchBox at [-421,127,552] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 15:09:02] Loader added at [-410,96,1047] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 15:09:02] Loader removed (chunks will stay loaded for one second) at [-410,96,1047] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-24 15:09:02] Loader added at [-410,96,1047] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 15:09:02] Loader validated at [-410,96,1047] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 15:09:02] Loader removed (chunks will stay loaded for one second) at [-410,96,1047] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-24 15:09:02] Loader added at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:09:04] Loader removed (chunks will stay loaded for one second) at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:09:04] Loader added at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 15:09:04] Loader removed (chunks will stay loaded for one second) at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 15:09:04] Loader added at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 15:57:11] Loader removed (chunks will stay loaded for one second) at [235,85,1265] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:57:11] Loader added at [235,85,1265] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 15:57:16] Loader removed (chunks will stay loaded for one second) at [236,85,1276] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:57:16] Loader added at [236,85,1276] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 15:57:20] Loader removed (chunks will stay loaded for one second) at [235,85,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:57:20] Loader added at [235,85,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 15:57:24] Loader removed (chunks will stay loaded for one second) at [248,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-24 15:57:24] Loader added at [248,86,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-24 17:57:35] Loader removed (chunks will stay loaded for one second) at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 17:57:35] Loader invalidated/removed at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-24 17:57:35] Loader removed by SketchBox at [-410,96,1047] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-25 14:40:46] Loader added at [-44,107,821] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-25 14:40:46] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-25 14:40:46] Loader added at [-44,107,821] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 14:40:46] Loader validated at [-44,107,821] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 14:40:46] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 14:40:46] Loader added at [-44,107,821] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-25 14:40:47] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-25 14:40:47] Loader added at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 14:40:48] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 14:40:48] Loader added at [-44,107,821] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-25 14:40:49] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=SketchBox, #chunks=25
+[2015-05-25 14:40:49] Loader added at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 17:32:03] Loader removed (chunks will stay loaded for one second) at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 17:32:03] Loader invalidated/removed at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 17:32:03] Loader removed by SketchBox at [-44,107,821] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-25 17:33:23] Loader added at [10,107,634] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-25 17:33:23] Loader removed (chunks will stay loaded for one second) at [10,107,634] in the overworld, owner=<data lost; report this bug>, #chunks=0
+[2015-05-25 17:33:23] Loader added at [10,107,634] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 17:33:23] Loader validated at [10,107,634] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 17:33:23] Loader removed (chunks will stay loaded for one second) at [10,107,634] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-25 17:33:23] Loader added at [10,107,634] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-25 17:33:24] Loader removed (chunks will stay loaded for one second) at [10,107,634] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-25 17:33:24] Loader added at [10,107,634] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:49] Log opened
+[2015-05-26 18:40:55] Loaded world info for the overworld
+[2015-05-26 18:40:55] Loader validated at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:55] Loader validated at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:55] Loader validated at [-401,165,764] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-26 18:40:55] Loader validated at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 18:40:56] Loader validated at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:57] Loader validated at [-434,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:58] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [236,85,1276] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:58] Loader validated at [235,85,1265] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:58] Loader validated at [236,85,1253] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [248,86,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:58] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [235,85,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:58] Loader validated at [260,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [260,86,1273] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [260,86,1263] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [260,86,1254] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [260,86,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [247,85,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [236,85,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [218,86,1270] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [218,86,1276] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-26 18:40:58] Loader validated at [220,86,1289] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 18:40:58] Loader validated at [220,86,1282] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 18:40:59] Loader validated at [185,86,1264] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1269] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1285] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1280] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1292] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [176,81,1253] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 18:40:59] Loader validated at [204,84,1294] in the overworld, owner=<server>, #chunks=25
+[2015-05-26 18:40:59] Loader validated at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 18:40:59] Loader validated at [202,81,1280] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 18:40:59] Loader validated at [219,87,1263] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [10,107,634] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 18:40:59] Loader validated at [191,86,1296] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:01] Log opened
+[2015-05-26 22:33:07] Loaded world info for the overworld
+[2015-05-26 22:33:07] Loader validated at [-431,165,757] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:08] Loader validated at [-408,165,742] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:08] Loader validated at [-411,165,754] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:08] Loader validated at [-401,165,764] in the overworld, owner=Gr8Gildersleeve, #chunks=1
+[2015-05-26 22:33:08] Loader validated at [-399,61,740] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:09] Loader validated at [-434,165,731] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [229,86,1277] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [229,86,1271] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [236,85,1276] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [235,85,1265] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [236,85,1253] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [248,86,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [231,86,1283] in the overworld, owner=<data lost; report this bug>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [235,85,1287] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [260,86,1287] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [260,86,1273] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [260,86,1263] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [260,86,1254] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [260,86,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [247,85,1243] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [236,85,1244] in the overworld, owner=SketchBox, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [218,86,1270] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [218,86,1276] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [212,86,1264] in the overworld, owner=<data lost; report this bug>, #chunks=49
+[2015-05-26 22:33:12] Loader validated at [220,86,1289] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [220,86,1282] in the overworld, owner=<server>, #chunks=1
+[2015-05-26 22:33:12] Loader validated at [185,86,1264] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1269] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1274] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1285] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1280] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1292] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [176,81,1253] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 22:33:12] Loader validated at [204,84,1294] in the overworld, owner=<server>, #chunks=25
+[2015-05-26 22:33:12] Loader validated at [197,86,1291] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 22:33:12] Loader validated at [202,81,1280] in the overworld, owner=<server>, #chunks=49
+[2015-05-26 22:33:12] Loader validated at [219,87,1263] in the overworld, owner=<server>, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [10,107,634] in the overworld, owner=SketchBox, #chunks=9
+[2015-05-26 22:33:12] Loader validated at [191,86,1296] in the overworld, owner=<server>, #chunks=1
+[2015-05-27 22:28:14] Loaded world info for world DIM-1
